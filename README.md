@@ -44,7 +44,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-<div style="display: flex; flex-direction: row; gap: 20px;">
+<div style="display: flex; flex-direction: column; gap: 20px;">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark" alt="GitHub Streak" />
   </a>
