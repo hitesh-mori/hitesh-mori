@@ -56,4 +56,5 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
