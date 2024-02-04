@@ -40,21 +40,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-<div>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark" alt="GitHub Streak" />
-  </a>
-</div>
-
-<div style="margin-top: 20px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori" alt="Top Languages" />
-  </a>
-</div>
-
-
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
