@@ -18,6 +18,8 @@
   I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions
 
+- I am a 2nd year CSE student Nirma University,Ahmedabad
+
 - :zap: I have developed more than 5 mobile apps and 3 websites
   
 - 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdevelopment@gmail.com)
