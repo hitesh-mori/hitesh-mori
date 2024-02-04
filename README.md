@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <a href = "https://mori-hitesh.web.app/">
-  <img src =  "https://img.shields.io/website" alt ="Portfolio website">
+  <img src =  "https://img.shields.io/badge/website-blue" alt ="Portfolio website">
 </a>
   
 </div>
