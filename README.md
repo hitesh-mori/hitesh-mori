@@ -20,7 +20,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: I have developed more than 5 mobile apps and 3 websites
   
-- 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdeveleopment@gmail.com)
+- 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdevelopment@gmail.com)
   
 - 🥈 I have participated in 3 hackathons, and in each one, my team and I secured a position in the top 5. Additionally, in one of these hackathons, we reached the 2nd place
 
