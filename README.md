@@ -12,6 +12,3 @@
     <img src="https://img.shields.io/badge/website-orange?style=for-the-badge" alt="Portfolio website">
   </a>
 </div>
-
-
-</div>
