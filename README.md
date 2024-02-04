@@ -48,3 +48,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![@Hitesh123mori's Holopin board](https://holopin.me/Hitesh123mori)](https://holopin.io/@Hitesh123mori)
+
