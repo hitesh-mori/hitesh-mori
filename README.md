@@ -17,6 +17,6 @@
 ### :woman_technologist: About Me :
 
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'm passionate about developing mobile and web applications, actively contributing as a Software Engineer to create innovative and impactful solutions
+- :telescope: I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions
 
 - :zap: I have developed more than 5 mobile apps and 3 websites
