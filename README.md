@@ -20,4 +20,5 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions
 
 - :zap: I have developed more than 5 mobile apps and 3 websites
--🥈I have participated in 3 hackathons, and in each one, my team and I secured a position in the top 5. Additionally, in one of these hackathons, we reached the 2nd place
+  
+- 🥈:I have participated in 3 hackathons, and in each one, my team and I secured a position in the top 5. Additionally, in one of these hackathons, we reached the 2nd place
