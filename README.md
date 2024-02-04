@@ -13,7 +13,6 @@
   </a>
 </div>
 
-
 ### :woman_technologist: About Me :
 
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
@@ -22,7 +21,6 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: I have developed more than 5 mobile apps and 3 websites
   
 - 🥈 I have participated in 3 hackathons, and in each one, my team and I secured a position in the top 5. Additionally, in one of these hackathons, we reached the 2nd place
-
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -40,8 +38,6 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark)](https://git.io/streak-stats)
