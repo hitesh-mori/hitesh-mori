@@ -12,3 +12,6 @@
     <img src="https://img.shields.io/badge/website-orange?style=for-the-badge" alt="Portfolio website">
   </a>
 </div>
+
+
+<img src="https://komarev.com/ghpvc/?username=Hitesh123mori&style=flat-square&color=blue" alt=""/>
