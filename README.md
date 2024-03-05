@@ -20,7 +20,7 @@
 
 - I am a 2nd year CSE student Nirma University,Ahmedabad
 
-- :zap: I have developed more than 5 mobile apps and 3 websites
+- :zap: I have developed total 11 Android/ios Mobile applications(4 personal project, 4 Hackthons projects, 3 freelancing project)
   
 - 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdevelopment@gmail.com)
   
