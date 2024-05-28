@@ -8,7 +8,7 @@
   <a href="https://in.linkedin.com/in/hitesh-mori-562673273">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mori-hitesh.web.app">
+  <a href="https://hitesh-mori.versel.app">
     <img src="https://img.shields.io/badge/website-orange?style=for-the-badge" alt="Portfolio website">
   </a>
 </div>
