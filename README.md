@@ -18,7 +18,7 @@
   I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions
 
-- I am a 2nd year CSE student Nirma University,Ahmedabad
+- I am a 3rd year CSE student Nirma University,Ahmedabad
 
 - :zap: I have developed total 11 Android/ios Mobile applications(4 personal projects, 4 Hackthon projects, 3 freelancing project)
   
