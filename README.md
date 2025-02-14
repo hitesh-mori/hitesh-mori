@@ -48,3 +48,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/harshmori0521)](https://leetcode.com/harshmori0521)
+
+
+![](https://komarev.com/ghpvc/?username=your-github-Hitesh123mori&color=green)
