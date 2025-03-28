@@ -25,7 +25,7 @@
   
 - 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdevelopment@gmail.com)
   
-- 🥈 I have participated in 3 hackathons, and in each one, my team and I secured a position in the top 5. Additionally, in one of these hackathons, we reached the 2nd place
+- 🥈 I have participated in 8 hackathons, and in each one, my team and I secured a position in the top 10. Additionally, in one of these hackathons, we reached the 2nd place
 
 ### :hammer_and_wrench: Languages and Tools :
 
