@@ -16,8 +16,6 @@
 
 ### 👩‍💻 About Me :
 
-I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
 - 👀 I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions.
 
 - I am a 3rd-year CSE student at Nirma University, Ahmedabad.
