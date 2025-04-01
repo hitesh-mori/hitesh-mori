@@ -14,41 +14,59 @@
   </a>
 </div>
 
-### :woman_technologist: About Me :
+### 👩‍💻 About Me :
 
-  I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions
+I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- I am a 3rd year CSE student Nirma University,Ahmedabad
+- 👀 I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions.
 
-- :zap: I have developed total 11 Android/ios Mobile applications(4 personal projects, 4 Hackthon projects, 3 freelancing project)
+- I am a 3rd-year CSE student at Nirma University, Ahmedabad.
+
+- ⚡ I have developed a total of 11 Android/iOS Mobile applications (4 personal projects, 4 Hackathon projects, 3 freelancing projects).
   
 - 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdevelopment@gmail.com)
   
-- 🥈 I have participated in 8 hackathons, and in each one, my team and I secured a position in the top 10. Additionally, in one of these hackathons, we reached the 2nd place
+- 🥇 I have participated in 8 hackathons, and in each one, my team and I secured a position in the top 10. Additionally, in one of these hackathons, we reached 2nd place.
 
-### :hammer_and_wrench: Languages and Tools :
+### 🔧 Languages, Frameworks, Databases, and Tools :
 
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-</div>
+#### **Languages**
+- C, C++
+- Dart, JavaScript, Python, Java
+- HTML, CSS
 
-### :fire: My Stats :
+#### **Frameworks & Libraries**
+- Flutter
+- React.js
+
+#### **Databases**
+- Firebase
+- MongoDB
+
+#### **Other Tools**
+- Git, GitHub
+
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/harshmori0521)](https://leetcode.com/harshmori0521)
 
+### 📚 Hackathon History :
 
-![](https://komarev.com/ghpvc/?username=your-github-Hitesh123mori&color=green)
+| Hackathon         | Rank        | Institution |
+|------------------|------------|-------------|
+| HackNuThon 4.0  | 5th Place   | Nirma University |
+| HackOut 23      | 7th Place   | DAIICT |
+| Tic Tech Toe    | 2nd Place   | DAIICT |
+| Ingeinum        | FLOP        | Ahmedabad University |
+| HackOut 24      | 6th Place   | DAIICT |
+| Tic Tech Toe    | 7th Place   | DAIICT |
+| SIH             | FLOP        | National Level Hackathon |
+| Mined Hackathon | FLOP        | Nirma and Binghamton University |
+| HackNuThon 6.0  | FLOP        | Nirma University |
+
+### 🔍 Pull Request Counter :
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Hitesh123mori)
+
