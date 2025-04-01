@@ -67,8 +67,8 @@
 |------------------|------------|-------------|
 | HackNuThon 4.0  | 🟢 5th Place   | Nirma University |
 | HackOut 23      | 🟢 7th Place   | DAIICT |
-| Tic Tech Toe    | 🟢 2nd Place   | DAIICT |
-| Ingeinum        | 🔴 FLOP        | Ahmedabad University |
+| Tic Tech Toe 23   | 🟢 2nd Place   | DAIICT |
+| Ingeinum 5.0       | 🔴 FLOP        | Ahmedabad University |
 | HackOut 24      | 🟢 6th Place   | DAIICT |
 | Tic Tech Toe 24    | 🟢 7th Place   | DAIICT |
 | SIH             | 🔴 FLOP        | National Level Hackathon |
