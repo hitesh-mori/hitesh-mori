@@ -76,6 +76,4 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 | Mined Hackathon | FLOP        | Nirma and Binghamton University |
 | HackNuThon 6.0  | FLOP        | Nirma University |
 
-### 🔍 Pull Request Counter :
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Hitesh123mori)
 
