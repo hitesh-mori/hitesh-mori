@@ -22,7 +22,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - I am a 3rd-year CSE student at Nirma University, Ahmedabad.
 
-### 🔧 Languages, Frameworks, Databases, and Tools :
+### 🔧 Languages, Frameworks, Databases :
 
 #### **Languages**
 - C, C++
@@ -37,8 +37,6 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - Firebase
 - MongoDB
 
-#### **Other Tools**
-- Git, GitHub
 
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
