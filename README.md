@@ -22,12 +22,6 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - I am a 3rd-year CSE student at Nirma University, Ahmedabad.
 
-- ⚡ I have developed a total of 11 Android/iOS Mobile applications (4 personal projects, 4 Hackathon projects, 3 freelancing projects).
-  
-- 📧 Mail for freelancing projects - [Mail now](mailto:apyarshdevelopment@gmail.com)
-  
-- 🥇 I have participated in 8 hackathons, and in each one, my team and I secured a position in the top 10. Additionally, in one of these hackathons, we reached 2nd place.
-
 ### 🔧 Languages, Frameworks, Databases, and Tools :
 
 #### **Languages**
