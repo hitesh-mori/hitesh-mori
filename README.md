@@ -47,7 +47,7 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 | Contact Manager | Mobile Application | [Contact Manager](https://github.com/Hitesh123mori/Contact_Manager) |
 | Smart Link | Mobile Application | [Smart Link](https://github.com/Hitesh123mori/ingenious-5.0) |
 | Khedut Mitra | Mobile Application | [Khedut Mitra](https://github.com/Hitesh123mori/hack_24?tab=readme-ov-file) |
-| Teach AssISTS | Mobile Application | [Teach AssISTS](https://github.com/Hitesh123mori/tic-tech-teo-24) |
+| Teach Assists | Mobile Application | [Teach Assists](https://github.com/Hitesh123mori/tic-tech-teo-24) |
 | ConnectWith | Mobile Application | [ConnectWith](https://github.com/Hitesh123mori/connect_with) |
 | Paper2x | Web Application | [Paper2x](https://github.com/Hitesh123mori/mined_2025) |
 | FraudEye | Web Application | [FraudEye](https://github.com/Hitesh123mori/hacknuthon-6.0) |
