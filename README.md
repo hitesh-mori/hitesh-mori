@@ -42,6 +42,7 @@
 | FetchInfo | Mobile Application | [FetchInfo](https://github.com/Hitesh123mori/Scanner-App---Flutter) |
 | ChatApp | Mobile Application | [ChatApp](https://github.com/Hitesh123mori/Chat_App) |
 | Video Conference | Mobile Application | [Video Conference](https://github.com/Hitesh123mori/video_meet_App) |
+| EduShakha | Mobile Application | [EduShakha](https://github.com/Niraj-KC/Edusakha-Hackout-23) |
 | Contact Manager | Mobile Application | [Contact Manager](https://github.com/Hitesh123mori/Contact_Manager) |
 | Smart Link | Mobile Application | [Smart Link](https://github.com/Hitesh123mori/ingenious-5.0) |
 | Khedut Mitra | Mobile Application | [Khedut Mitra](https://github.com/Hitesh123mori/hack_24?tab=readme-ov-file) |
