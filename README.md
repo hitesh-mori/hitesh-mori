@@ -57,7 +57,8 @@ I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh123mori&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔥 LeetCode :
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/harshmori0521)](https://leetcode.com/harshmori0521)
 
