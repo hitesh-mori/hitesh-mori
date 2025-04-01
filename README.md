@@ -70,7 +70,7 @@
 | Tic Tech Toe    | 🟢 2nd Place   | DAIICT |
 | Ingeinum        | 🔴 FLOP        | Ahmedabad University |
 | HackOut 24      | 🟢 6th Place   | DAIICT |
-| Tic Tech Toe    | 🟢 7th Place   | DAIICT |
+| Tic Tech Toe 24    | 🟢 7th Place   | DAIICT |
 | SIH             | 🔴 FLOP        | National Level Hackathon |
 | Mined Hackathon | 🔴 FLOP        | Nirma and Binghamton University |
 | HackNuThon 6.0  | 🔴 FLOP        | Nirma University |
