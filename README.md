@@ -43,6 +43,7 @@
 | ChatApp | Mobile Application | [ChatApp](https://github.com/Hitesh123mori/Chat_App) | Individual |
 | Video Conference | Mobile Application | [Video Conference](https://github.com/Hitesh123mori/video_meet_App) | Individual |
 | EduShakha | Mobile Application | [EduShakha](https://github.com/Niraj-KC/Edusakha-Hackout-23) | Team |
+| MedEase | Mobile Application | [MedEase](https://github.com/Hitesh123mori/MedEase) | Team |
 | Contact Manager | Mobile Application | [Contact Manager](https://github.com/Hitesh123mori/Contact_Manager) | Individual |
 | Smart Link | Mobile Application | [Smart Link](https://github.com/Hitesh123mori/ingenious-5.0) | Team |
 | Khedut Mitra | Mobile Application | [Khedut Mitra](https://github.com/Hitesh123mori/hack_24?tab=readme-ov-file) | Team |
