@@ -51,6 +51,7 @@
 | ConnectWith | Mobile Application | [ConnectWith](https://github.com/Hitesh123mori/connect_with) | Individual |
 | Paper2x | Web Application | [Paper2x](https://github.com/Hitesh123mori/mined_2025) | Team |
 | FraudEye | Web Application | [FraudEye](https://github.com/Hitesh123mori/hacknuthon-6.0) | Team |
+| GomIQ | Web Application | [GomIQ](https://github.com/Hitesh123mori/gomiq) | Team |
 
 
 
