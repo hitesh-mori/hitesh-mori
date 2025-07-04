@@ -52,8 +52,7 @@
 | Paper2x | Web Application | [Paper2x](https://github.com/Hitesh123mori/mined_2025) | Team |
 | FraudEye | Web Application | [FraudEye](https://github.com/Hitesh123mori/hacknuthon-6.0) | Team |
 | GomIQ | Web Application | [GomIQ](https://github.com/Hitesh123mori/gomiq) | Team |
-
-
+| Flat Management System | Web Application | [Flat Management System](https://github.com/Hitesh123mori/flat-management-system) | Individual |
 
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
