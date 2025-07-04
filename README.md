@@ -18,7 +18,7 @@
 
 - 👀 I'm passionate about developing mobile and web applications, actively contributing as a Developer to create innovative and impactful solutions.
 
-- I am a 3rd-year CSE student at Nirma University, Ahmedabad.
+- I am a 4th-year CSE student at Nirma University, Ahmedabad.
 
 ### 🔧 Languages, Frameworks, Databases :
 
