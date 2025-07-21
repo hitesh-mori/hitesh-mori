@@ -55,7 +55,7 @@
 | Flat Management System | Web Application | [Flat Management System](https://github.com/Hitesh123mori/flat-management-system) | Individual |
 
 ### 🔥 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hitesh123mori&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hitesh-mori&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 ### 🔥 LeetCode :
