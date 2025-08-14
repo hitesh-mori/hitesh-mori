@@ -24,16 +24,16 @@
 
 #### **Languages**
 - C, C++
-- Dart, JavaScript, Python, Java
+- Dart, Javascript
 - HTML, CSS
 
 #### **Frameworks & Libraries**
 - Flutter
-- React.js
 
 #### **Databases**
 - Firebase
 - MongoDB
+- MySQL 
 
 ### **Projects**
 
