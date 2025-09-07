@@ -25,7 +25,6 @@
 #### **Languages**
 - C, C++
 - Dart, Javascript
-- HTML, CSS
 
 #### **Frameworks & Libraries**
 - Flutter
