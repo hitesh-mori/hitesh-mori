@@ -20,20 +20,6 @@
 
 - I am a 4th-year CSE student at Nirma University, Ahmedabad.
 
-### 🔧 Languages, Frameworks, Databases :
-
-#### **Languages**
-- C, C++
-- Dart, Javascript
-
-#### **Frameworks & Libraries**
-- Flutter
-
-#### **Databases**
-- Firebase
-- MongoDB
-- MySQL 
-
 ### **Projects**
 
 | **Project Name** | **Type** | **GitHub Link** | **Individual/Team** |
