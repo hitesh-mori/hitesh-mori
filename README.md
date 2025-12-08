@@ -39,6 +39,7 @@
 | GomIQ | Web Application | [GomIQ](https://github.com/Hitesh123mori/gomiq) | Team |
 | Flat Management System | Web Application | [Flat Management System](https://github.com/Hitesh123mori/flat-management-system) | Individual |
 | OneFlow | Web Application | [OneFlow](https://github.com/hitesh-mori/oneflow-frontend) | Team |
+| BlinkLock | Mobile Application | [BlinkLock](https://github.com/hitesh-mori/blinklock) | Individual |
 
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hitesh-mori&theme=dark&background=000000)](https://git.io/streak-stats)
